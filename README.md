@@ -3,6 +3,8 @@
 ## DevOps
 [DevOps Topologies](https://web.devopstopologies.com/)
 
+[Microsoft DevOps Resource Center](https://docs.microsoft.com/en-us/azure/devops/learn/)
+
 ## Source Control
 [GitHub Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
