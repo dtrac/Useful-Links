@@ -10,3 +10,4 @@
 
 ## Configuration Management & Orchestration
 [Ansible Windows Modules](https://docs.ansible.com/ansible/latest/modules/list_of_windows_modules.html)
+[Ansible VMware Modules](https://docs.ansible.com/ansible/latest/modules/list_of_cloud_modules.html#vmware-cloud-modules)
