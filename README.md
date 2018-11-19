@@ -5,6 +5,9 @@
 
 [Microsoft DevOps Resource Center](https://docs.microsoft.com/en-us/azure/devops/learn/)
 
+## Site Reliability Engineering
+[The Google SRE Book](https://landing.google.com/sre/sre-book/toc/index.html)
+
 ## Source Control
 [GitHub Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
