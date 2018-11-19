@@ -14,6 +14,8 @@
 [Git Cheat Sheet](http://files.zeroturnaround.com/pdf/zt_git_cheat_sheet.pdf)
 
 ## Configuration Management & Orchestration
-[Ansible Windows Modules](https://docs.ansible.com/ansible/latest/modules/list_of_windows_modules.html)
+[Ansible - Windows Modules](https://docs.ansible.com/ansible/latest/modules/list_of_windows_modules.html)
 
-[Ansible VMware Modules](https://docs.ansible.com/ansible/latest/modules/list_of_cloud_modules.html#vmware-cloud-modules)
+[Ansible - VMware Modules](https://docs.ansible.com/ansible/latest/modules/list_of_cloud_modules.html#vmware-cloud-modules)
+
+[Chocolatey - Creating portable packages](https://weblog.west-wind.com/posts/2017/Jan/29/Creating-a-portable-and-embedded-Chocolatey-Package)
