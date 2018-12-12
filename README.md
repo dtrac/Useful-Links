@@ -21,3 +21,6 @@
 [Chocolatey - Creating portable packages](https://weblog.west-wind.com/posts/2017/Jan/29/Creating-a-portable-and-embedded-Chocolatey-Package)
 
 [Group Policy vs DSC](https://blogs.technet.microsoft.com/ashleymcglone/2017/02/27/compare-group-policy-gpo-and-powershell-desired-state-configuration-dsc/)
+
+## Platforms
+[Docker Overview](https://docs.docker.com/engine/docker-overview/)
