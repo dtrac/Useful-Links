@@ -23,4 +23,11 @@
 [Group Policy vs DSC](https://blogs.technet.microsoft.com/ashleymcglone/2017/02/27/compare-group-policy-gpo-and-powershell-desired-state-configuration-dsc/)
 
 ## Platforms
-[Docker Overview](https://docs.docker.com/engine/docker-overview/)
+[Docker Overview](https://docs.docker.com/engine/docker-overview)
+
+## Machine Learning and AI
+[The Quest for Artificial Intelligence - A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf)
+
+[Learning Machines 101](https://www.learningmachines101.com/)
+
+[OCDevel - Machine Learning Guide](http://ocdevel.com/mlg)
