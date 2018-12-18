@@ -8,6 +8,8 @@
 ## Site Reliability Engineering
 [The Google SRE Book](https://landing.google.com/sre/sre-book/toc/index.html)
 
+[The 5 Pillars of the AWS Well-Architected Framework](https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/)
+
 ## Source Control
 [GitHub Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
