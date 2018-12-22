@@ -33,3 +33,6 @@
 [Learning Machines 101](https://www.learningmachines101.com/)
 
 [OCDevel - Machine Learning Guide](http://ocdevel.com/mlg)
+
+## Infrastructure-as-Code
+[Best Practices with Packer and Windows](https://hodgkins.io/best-practices-with-packer-and-windows#disable-winrm-on-build-completion-and-only-enable-it-on-first-boot)
