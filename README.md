@@ -24,6 +24,8 @@
 
 [Group Policy vs DSC](https://blogs.technet.microsoft.com/ashleymcglone/2017/02/27/compare-group-policy-gpo-and-powershell-desired-state-configuration-dsc/)
 
+[PSSessions vs CIM Sessions](https://blogs.technet.microsoft.com/heyscriptingguy/2014/01/31/comparing-powershell-pssessions-and-cim-sessions/)
+
 ## Platforms
 [Docker Overview](https://docs.docker.com/engine/docker-overview)
 
