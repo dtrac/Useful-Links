@@ -15,6 +15,8 @@
 
 [Git Cheat Sheet](http://files.zeroturnaround.com/pdf/zt_git_cheat_sheet.pdf)
 
+[Adding an existing project to GitHub using the command line](https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line)
+
 ## Configuration Management & Orchestration
 [Ansible - Windows Modules](https://docs.ansible.com/ansible/latest/modules/list_of_windows_modules.html)
 
