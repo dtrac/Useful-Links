@@ -30,6 +30,7 @@
 
 ## Platforms
 [Docker Overview](https://docs.docker.com/engine/docker-overview)
+[Containers Tech Primer](https://aka.ms/docker-primer)
 
 ## Machine Learning and AI
 [The Quest for Artificial Intelligence - A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf)
