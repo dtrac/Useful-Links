@@ -1,0 +1,77 @@
+---
+# Three dashes indicate the start of a new yml file
+
+key: value # a key/value pair, mapping, hashtable, associative array, dictionary...
+key2: scalar # scalar is a string, bollean or number data type
+another_key: "value with spaces in it" # a string with spaces can have single, double or no quotes at all (except if we want escape chars handled - when we need to use double quotes)!
+yep_another: 1 # also supports integers (whole numbers)
+and: true # and booleans - true/on/yes - false/off/no
+pi: 3.14159 # and floats (floating points)
+
+array: # ...list, sequence, collection...
+  - with
+  - three
+  - elements
+
+string_value_on_more_than_one_line: >
+  uses a fold (greater than)
+  to span
+  more than 
+  one line
+  
+string_value_on_more_than_one_line: |
+  using a pipe means
+  that the string 
+  is displayed
+  as is - preserves new lines.
+
+# complex objects - lists of dictionaries (things + other things)
+items:
+  - things: # can be indented - or not.
+      thing1: huey
+      things2: dewey
+      thing3: louie
+  - other things:
+      key: value
+      
+# complex objects - dictionaries whose values are lists (skills)
+- martin:
+    name: Martin D'vloper
+    job: Developer
+    skills:
+      - python
+      - perl
+      - pascal
+- tabitha:
+    name: Tabitha Bitumen
+    job: Developer
+    skills:
+      - lisp
+      - fortran
+      - erlang
+
+# Arrays on a single line (aka flow collection)
+items: [ 1, 2, 3, 4, 5 ]
+names: [ "one", "two", "three", "four" ]
+
+# Or on multiple lines - block style
+items:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+names:
+  - "one"
+  - "two"
+  - "three"
+  - "four"
+
+# Useful Links:
+# =============
+# https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started
+#
+# https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html
+
+# Three dots equal the end of the document - but noone ever does it.
+...
